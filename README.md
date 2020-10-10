@@ -167,7 +167,10 @@ https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/chunks.m3u8
 https://stream-05.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa8-06lV8clD6gRJPWtGg738)/dm/3/x2j4h4m/s/live-3.m3u8
 #EXTINF:-1 group-title="NEW", CCTV4 
 https://laos-tech-live.b-cdn.net/sd-cctv4_480/index.m3u8
- 
+#EXTINF:-1 group-title="NEW", NHK
+https://www.livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8 
+
+
 #EXTINF:-1 group-title="สารคดี", True Explore Wild (TH)
 https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8
 #EXTINF:-1 group-title="สารคดี", True Explore LIFE (TH)

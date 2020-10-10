@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 group-title="Thai Digital.TV",CH3 HD
 https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeY2U3MWQ1ODg0MzdiNzJiOWUzOAMWY5YzQwNzVjODUzNTYw
-#EXTINF:-1 group-title="Thai Digital.TV",CH3 HD (2)
+#EXTINF:-1 group-title="Thai Digital.TV",CH3 HD 2
 http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
 #EXTINF:-1 group-title="Thai Digital.TV", CH5 HD
 http://110.170.117.27:1935/tv5hd1/vdo/chunklist_w31756198.m3u8
 #EXTINF:-1 group-title="Thai Digital.TV", CH7
 https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", CH7 HD
+#EXTINF:-1 group-title="Thai Digital.TV", CH7 HD1
 https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", CH7 HD
+#EXTINF:-1 group-title="Thai Digital.TV", CH7 HD2
 https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
 #EXTINF:-1 group-title="Thai Digital.TV", MCOT HD 30
 https://stream-02.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xu8NMWFy2EODRtFoKFr-u-k)/dm/3/x74wlgj/s/live-4.m3u8
@@ -66,19 +66,19 @@ https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
 https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT", TRUE Sport HD3
 https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", TRUE Sport 2
+#EXTINF:-1 group-title="SPORT", TRUE Sport2
 https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1group-title="SPORT", TRUE Sport 5
+#EXTINF:-1group-title="SPORT", TRUE Sport5
 https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1group-title="SPORT", TRUE Sport 6
+#EXTINF:-1group-title="SPORT", TRUE Sport6
 https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", TRUE Sport 7
+#EXTINF:-1 group-title="SPORT", TRUE Sport7
 https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT", FOX Sports HD
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", FOX Sports 2
+#EXTINF:-1 group-title="SPORT", FOX Sports2
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", FOX Sports 3
+#EXTINF:-1 group-title="SPORT", FOX Sports3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORT", bein 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8

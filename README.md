@@ -1,209 +1,117 @@
 #EXTM3U
-#EXTINF:-1 group-title="Thai Digital.TV",CH3 HD
-https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=cjeY2U3MWQ1ODg0MzdiNzJiOWUzOAMWY5YzQwNzVjODUzNTYw
-#EXTINF:-1 group-title="Thai Digital.TV",CH3 HD 2
-http://dootvthai-hd.com/cmd/api/true/CH3-HD/playlist.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", CH5 HD
-http://110.170.117.27:1935/tv5hd1/vdo/chunklist_w31756198.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", CH7
-https://cdn6.goprimetime.info/feed/ch7hd/index.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", CH7 HD1
-https://bcovlive-a.akamaihd.net/44cc55c80fef46a8baa3a405433e63b8/ap-southeast-1/5282994675001/profile_4/chunklist.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", CH7 HD2
-https://edge160.bugaboo.tv/liveedgech7_partner/smil:auto.smil/chunklist_b1210000_sleng.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", MCOT HD 30
-https://stream-02.sg1.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xu8NMWFy2EODRtFoKFr-u-k)/dm/3/x74wlgj/s/live-4.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", THATRAT TV 32
-http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", PPTV HD 36 (สำรอง)
-http://live2.dootvde.com/live/50026_pptv_hd.stream.smil/playist.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", PPTV HD 36
-https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=cjeNDllNGIwMWY0MjRkNDY1M2VmYgOWE3MGNiMGE5ZTEyMTQ1
-#EXTINF:-1group-title="Thai Digital.TV", AMARIN HD 34
-http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
-#EXTINF:-1group-title="Thai Digital.TV", THAI PBS 
-https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-#EXTINF:-1group-title="Thai Digital.TV", THAI PBS (2)
-https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", NBT
-https://cdn6.goprimetime.info/feed/chthaipbs/index.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", ช่อง 8
-https://cdn6.goprimetime.info/feed/ch8/index.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", MONO 29
-https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1578972109.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", GMM 25
-http://119.59.125.74/stream/totnew.php?channel_id=ab0b43ef8363438098a94101e93ca138
-#EXTINF:-1 group-title="Thai Digital.TV", Workpoint 23
-https://stream-04.sg1.dailymotion.com/sec(MuIaQwZ7oLftuFXhsi7R8k_N8NPcgnddrxdwrPeo7dg)/dm/3/x6g9qjj/s/live-3.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", ONE31
-http://203.150.107.30:8081/tested2iptv/I1_CNNHD/playlist.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", NEW 18
-https://stream-04.sg1.dailymotion.com/sec(SCEOt4M5U0fVbrIPRLL54wwCCwhfv8E4QeGaFXFdFSo)/dm/3/x7kx5i7/s/live-4.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", True4U 18
-https://www.livedoomovies.com/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", TNN24
-https://laos-tech-live.b-cdn.net/sd-tnn24_480/index.m3u8
-#EXTINF:-1 group-title="Thai Digital.TV", TVN
-https://doomovielive.b-cdn.net/hd-tvn_480/index.m3u8
  
-#EXTINF:-1 group-title="SPORT",TRUE Premier League HD
-http://dootvthai-hd.com/cmd/true/ep1-1/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",TRUE Premier League HD
-http://ip2121.com:8081/at1/ENG1/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",TRUE Premier League HD
-http://103.208.24.234:1935/thaisport/epl-1.stream/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",TRUE Premier League HD2
-https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",TRUE Premier League HD3
-https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", TRUE Premier League HD4
-https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", TRUE Premier League HD5
-https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", TRUE Sport HD1
-https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", TRUE Sport HD2
-https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", TRUE Sport HD3
-https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", TRUE Sport2
-https://www.livedoomovies.com/02_sport2_480p/chunklist.m3u8
-#EXTINF:-1group-title="SPORT", TRUE Sport5
-https://www.livedoomovies.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1group-title="SPORT", TRUE Sport6
-https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", TRUE Sport7
-https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", FOX Sports HD
-https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", FOX Sports2
-https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", FOX Sports3
-https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", bein 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", bein 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", Astro supersport
-http://streamx.link:8080/live/NvxBXobrQj/fRPdh3UVHc/1366.m3u8
-#EXTINF:-1 group-title="SPORT", NBA TV
-https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", MU TV
-https://www.livedoomovies.com/02_MUTV_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", BT SPORT HD1
-https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", BT SPORT HD2
-https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", SPORT TV1
-https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", SPORT TV2
-https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", SPORT TV3
-https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", SPORT TV4
-https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT", SPORT TV5
-https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVb9WP79fnPbiI2XSl_InbZpJMJZ9Bb6Q3OQ&usqp=CAU",Iron Man (2008)
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/bb6488f615cd743d5892cdc7870d2856/bb6488f615cd743d5892cdc7870d2856.m3u8
  
-#EXTINF:-1 group-title="MOVIE",Fox Movie
-https://www.livedoomovies.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE", HBO HD
-https://www.livedoomovies.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE", HBO Hit
-https://www.livedoomovies.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE", Warner TV
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE", Warner TV HD
-https://www.livedoomovies.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE", AXN HD
-https://www.livedoomovies.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE", Fox EN
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE", Fox ไทย
-https://www.livedoomovies.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 group-title="MOVIE", Fox Action
-http://dootvthai-hd.com/cmd/api/true/Fox-Action/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE", Fox Action TH 
-http://tv10.chang55.com/ch13-foxac/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE", Fox Family TH
-http://27.254.149.109:8081/tumlive/Foxfamily/playlist.m3u8
-#EXTINF:-1 group-title="MOVIE", cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
-#EXTINF:-1 group-title="MOVIE", True Movie Hit
-http://27.254.149.109:8081/tumlive/MOVH/chunks.m3u8
-#EXTINF:-1 group-title="MOVIE", Truethaiflim
-https://streaming.livescorethai.net/iptv/sd-thaifilm.stream/chunks.m3u8
-#EXTINF:-1 group-title="MOVIE", True Series TH
-https://streaming.livescorethai.net/iptv/sd-series.stream/chunks.m3u8
-#EXTINF:-1 group-title="MOVIE", Sky Movies Premiere
-https://streaming.livescorethai.net/iptv/uk-skypremiere.stream/chunks.m3u8
-#EXTINF:-1 group-title="MOVIE", RTL CBS (TH)
-https://streaming.livescorethai.net/iptv/hd-rtlcbs.stream/chunks.m3u8 
-#EXTINF:-1 group-title="MOVIE", West Africa Tv
-https://stream-01.sg1.dailymotion.com/sec(39iDNPbzS-KK9aqHY2NMEwKEqlqGjMxlxWy4XWfzeEE)/dm/3/x6vbjdp/d/live-3.m3u8
-#EXTINF:-1 group-title="MOVIE", Film HD
-https://doomovielive.b-cdn.net/hd-tfilm_720/index.m3u8
-#EXTINF:-1 group-title="MOVIE", True Film HD
-https://streaming.livescorethai.net/iptv/hd-tfilm.stream/chunks.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSClgtmwYDmJ-aqS2-dwl0zxQT46rGv783fgQ&usqp=CAU",The Incredible Hulk (2008)
+https://redirect.cherry1688.com/files/041b770ea7463cf2ce3b9451fcd9a3c3_original.txt
  
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLijIhEtIpKNO2d8xbA5quZ178DFijmdBVpw&usqp=CAU",Iron Man 2 (2010)
+https://redirect.cherry1688.com/files/a87d8ddd72d5cfd3f5961e753f899e89_original.txt
  
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZOLnJc_bIoDPxPhJC1b_3cykssvbFugyprQ&usqp=CAU",Thor (2011)
+https://redirect.cherry1688.com/files/580f8136968be7829965cc3a798fd286_original.txt
  
-#EXTINF:-1 group-title="รายการเด็ก", Cartoon.Networt
-https://www.livedoomovies.com/02_CartoonNetwork_720p/chunklist.m3u8
-#EXTINF:-1 group-title="รายการเด็ก", DisneyXD
-https://www.livedoomovies.com/02_DisneyXD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaVPp4XE5_6C4eFjViqi1kco4eVqr8gBckfw&usqp=CAU",Captain America : The First Avenger (2011)
+https://redirect.cherry1688.com/files/14c8702d6a9e17a2c406cdf5ee8d7a2e_original.txt
  
-#EXTINF:-1 group-title="NEW",CNN
-https://www.livedoomovies.com/02_CNN_720p/chunklist.m3u8
-#EXTINF:-1 group-title="NEW", Skynew
-https://streaming.livescorethai.net/iptv/uk-skynews.stream/chunks.m3u8
-#EXTINF:-1 group-title="NEW", Foxnew
-https://streaming.livescorethai.net/iptv/uk-foxnews.stream/chunks.m3u8
-#EXTINF:-1 group-title="NEW", Sky1
-https://streaming.livescorethai.net/iptv/uk-sky1.stream/chunks.m3u8
-#EXTINF:-1 group-title="NEW", BBC New HD
-https://streaming.livescorethai.net/iptv/uk-bbcnewshd.stream/chunks.m3u8
-#EXTINF:-1 group-title="NEW", EuroNews HD 
-https://stream-05.sg1.dailymotion.com/sec(ZHW-kyIDNbzrgtZQEivCa8-06lV8clD6gRJPWtGg738)/dm/3/x2j4h4m/s/live-3.m3u8
-#EXTINF:-1 group-title="NEW", CCTV4 
-https://laos-tech-live.b-cdn.net/sd-cctv4_480/index.m3u8
-#EXTINF:-1 group-title="NEW", NHK
-https://www.livedoomovies.com/02_NHK_WORLD_TV_720p/chunklist.m3u8 
-
-
-#EXTINF:-1 group-title="สารคดี", True Explore Wild (TH)
-https://streaming.livescorethai.net/iptv/sd-expwild.stream/chunks.m3u8
-#EXTINF:-1 group-title="สารคดี", True Explore LIFE (TH)
-https://streaming.livescorethai.net/iptv/sd-explife.stream/chunks.m3u8
-#EXTINF:-1 group-title="สารคดี", Discovery 
-https://www.livedoomovies.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF:-1 group-title="สารคดี", BBC Three
-https://streaming.livescorethai.net/iptv/uk-bbc3hd.stream/chunks.m3u8
-#EXTINF:-1 group-title="สารคดี", สำรวจโลก
-https://www.livedoomovies.com/sumrujlok_goodtv/chunklist.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://th-live-02.slatic.net/p/a2fcce764b9509e071d96229334adbff.jpg_q80_.webp",The Avengers (2012)
+https://redirect.cherry1688.com/files/01c3396345e424061411e4828a6cce41_original.txt
  
-#EXTINF:-1 group-title="Music", Fan Tv
-https://www.livedoomovies.com/02_FANMUSICHD_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Music", True Music
-https://www.livedoomovies.com/02_TRUEMUSIC_720p/chunklist.m3u8
-#EXTINF:-1 group-title="Music", Sabaidee TV
-https://www.livedoomovies.com/02_SabaideeTV_480p/chunklist.m3u8
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1HspqiURsRpt8_qYT_InNT1sbONJ8sr35sA&usqp=CAU",Iron Man 3 (2013)
+https://redirect.cherry1688.com/files/62208d35b4ba2a93f664b80ba9507460_original.txt
  
-#EXTINF:-1 group-title="Netflix", Ava (2020) เอวา มาแล้วฆ่า
-https://feplayer.net/file/1/eaef6e9defa9722d90d978d42b7fa184/femaster.m3u8
-#EXTINF:-1 group-title="Netflix",enola-holmes-2020เอโนลา-โฮล์มส์-hd
-https://laostech.b-cdn.net/SA05/evd/vd950-Enola-Holmes-2020-HDTH.mp4/index.m3u8?md5=Wjd2YRlKQjGAMcjlSD1ZeQ&expires=1602225271
-#EXTINF:-1 group-title="Netflix", big-gameเกมล่าประธานาธิบดี 2014
-https://laostech.b-cdn.net/SA05/evd/vd667-Big-Game-2014_HDTH.mp4/index.m3u8?md5=DaDGZy3UfhZKUendhr10Fw&expires=1602225375
-#EXTINF:-1 group-title="Netflix", fantasyisland 2020 เกาะสวรรค์ เกมนรก
-https://laostech.b-cdn.net/SA05/evd/vd802-Fantasy-Island-2020_HDEN.mp4/index.m3u8?md5=YU64eyrAYWmua_WEMPNlgw&expires=1602225555
-#EXTINF:-1 group-title="Netflix", jarhead 3 thesiege พลระห่ำสงครามนรก 3 
-https://laostech.b-cdn.net/SA05/evd/vd686-Jarhead2-2014-HDTH.mp4/index.m3u8?md5=1KLHgj1W3KFfyjTAd7Hi4A&expires=1602225950
-#EXTINF:-1 group-title="Netflix", Mulan 2020 มู่หลาน 
-https://feplayer.net/file/1/665ff174255470678e07b6a76c8023bf/femaster.m3u8
-#EXTINF:-1 group-title="Netflix", mortalkombat legends
-https://feplayer.net/file/1/41475a7e76934c416d33d64c61ff4759/femaster.m3u8
-#EXTINF:-1 group-title="Netflix", Alpha (2018)
-https://feplayer.net/file/1/861ac7f596d56b6712ba0dc67ad41e97/femaster.m3u8
-#EXTINF:-1 group-title="Netflix", ปฏิบัติการพิฆาตสมรภูมิเดือด
-https://cdn.we-play.tv/movies/4K/smil:Lone.Survivor.2013.smil/content/Lone.Survivor.2013.mp4_audiochunk.m3u8?nimblesessionid=4357635
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC2njAciFRV0mcnncXe6NjClKcMbED9UKMCg&usqp=CAU",Thor 2 The Dark World (2013)
+https://redirect.cherry1688.com/files/c26a6eb0036e52bf68e68da7f6eb6c45_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBvsQzo-iDeejWi9TPij0EGg19-PKZjNnSg&usqp=CAU",Captain America 2 The Winter Soldier (2014)
+https://redirect.cherry1688.com/files/96c096d7f07fd9e694e721b3cb12edb9_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9-QbBljshtK3d-HPe7Hzfkl6eeS1WEhGTA&usqp=CAU",Guardians Of The Galaxy (2014)
+https://redirect.cherry1688.com/files/01222900dd1ec53ec090932e2529d019_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTcqcV-FmSnrC34IfRaEnNC4FVdnGVcO1RbQ&usqp=CAU",Avengers Age Of Ultron (2015)
+https://redirect.cherry1688.com/files/e4c3460d281cf1509a71e9d1c115667a_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkEMhtceBUe7evOMrB_S6zS9n0xKbLlFELSg&usqp=CAU",Ant Man (2015)
+https://redirect.cherry1688.com/files/15f07d4d313a147374e6a169e439ef61_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeg-Jort8WCGriOASoMzsAnn1_5VRfuA1fcw&usqp=CAU",Captain America 3 Civil War (2016)
+https://redirect.cherry1688.com/files/4fbd5b5b3512bd3e1aa3e2f4bfc89399_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7pLPO_kA0gFGUQS0zfapMr94fVzkzQP_5bw&usqp=CAU",Doctor Strange (2016)
+https://redirect.cherry1688.com/files/a18c6acd774ca23cbae3ec05f702a918_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ab/Guardians_of_the_Galaxy_Vol_2_poster.jpg",Guardians Of The Galaxy Vol.2 (2017)
+https://redirect.cherry1688.com/files/e28172dc2bdf60dc0135282fd786209c_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpgHY77sXhp2LE-jOVAyF7zW6twVi8T5NrvQ&usqp=CAU",Spider Man : Homecoming (2017)
+https://hlscache.proxy-movie.com/M3USpider4/Redirector.php?url=https://cdn.livedoomovies.com/hls/64276f53c236c7d5502562fe02a0b62e/64276f53c236c7d5502562fe02a0b62e.m3u8
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYubpa1RyRchmwxNr-TEz60DLuLJ4pAsjy4A&usqp=CAU",Thor Ragnarok (2017)
+https://redirect.cherry1688.com/files/162abf056bb39dc242294617d81b3a9a_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiGyTb9V34Pizo8vnKCd8pIi5j6Yni55FD9g&usqp=CAU",Black Panther (2018)
+https://redirect.cherry1688.com/files/a7a52f71ef4d670aa696b595c3ece618_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJSxJ9VlHUNExphcF78EqYDmN-VwU_-G5SIg&usqp=CAU",Avengers Infinity war (2018)
+https://cdn.livedoomovies.com/hls/7f97dbe5c30629a3016b072a08b3773a/7f97dbe5c30629a3016b072a08b3773a.m3u8
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUdlfs9OP61I-p1afg6471FFYVG31wj2O-Dw&usqp=CAU",Ant Man & The Wasp (2018)
+https://redirect.cherry1688.com/files/a5e058a8ba33d81b62d497038990f47c_original.txt
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/85/Captain_Marvel_poster.jpg",Captain Marvel (2019)
+https://cdn.livedoomovies.com/hls/e68af99dbf6834346428412aa7865c41/e68af99dbf6834346428412aa7865c41.m3u8
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR1IPdqYerBBz6ps1Kg55RDBpyxoPXApHjGQ&usqp=CAU",Avengers Endgame (2019)
+https://cdn.livedoomovies.com/hls/150b1a6a6ad657fc1fc501a9c08e6daf/150b1a6a6ad657fc1fc501a9c08e6daf.m3u8
+ 
+#EXTINF:-1 group-title="Marvel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg",Spider Man : Far From Home (2019)
+https://cdn.livedoomovies.com/hls/ff0a5ca7fa9eece351ed875be63a5fd1/ff0a5ca7fa9eece351ed875be63a5fd1.m3u8
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMVqanjnqRexTkpBGqdXTulgeIJCkCDqqnw&usqp=CAU",X-Men 1 (2000)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://nungdeedee.com/uploads/images/5s6a3th48bs4cgo08g.png",X2 X-Men United (2003)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/81rtfn6D97L._SX522_.jpg",X-Men 3 The Last Stand (2006)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/91NYf7BHE5L._AC_SY445_.jpg",X-Men 4 Origins Wolverine (2009)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt3!W+
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://www.123-hd.com/wp-content/uploads/2019/12/X-Men-5-First-Class-2011-%E0%B9%80%E0%B8%AD%E0%B9%87%E0%B8%81%E0%B8%8B%E0%B9%8C-%E0%B9%80%E0%B8%A1%E0%B9%87%E0%B8%99-%E0%B8%A3%E0%B8%B8%E0%B9%88%E0%B8%99-1.png",X-Men 5 First Class (2011)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMVqanjnqRexTkpBGqdXTulgeIJCkCDqqnw&usqp=CAU",X-Men 6 The Wolverine (2013)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMVqanjnqRexTkpBGqdXTulgeIJCkCDqqnw&usqp=CAU",X-Men 7 Days Of Future Past (2014)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMVqanjnqRexTkpBGqdXTulgeIJCkCDqqnw&usqp=CAU",Deadpool (2016)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMVqanjnqRexTkpBGqdXTulgeIJCkCDqqnw&usqp=CAU",X-Men 8 Apocalypse (2016)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMVqanjnqRexTkpBGqdXTulgeIJCkCDqqnw&usqp=CAU",X-Men 9 Logan (2017)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Fox" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHMVqanjnqRexTkpBGqdXTulgeIJCkCDqqnw&usqp=CAU",Deadpool 2 (2018)
+https://redirect.cherry1688.com/files/7947ea5190ebf2be75796cb1a0ec9abc_original.txt
+ 
+#EXTINF:-1 group-title="Transformers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOswGDj_geb7MiyVgo9X7aevDzMqOOKvf4wQ&usqp=CAU",Transformers 1 (2007)
+https://redirect.cherry1688.com/files/14547e639fad1271d88d377b85099a73_original.txt
+ 
+#EXTINF:-1 group-title="Transformers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1vtgDdExidaro31DDzZXK24Yq51cavD2-SQ&usqp=CAU",Transformers 2 (2009)
+https://redirect.cherry1688.com/files/e6d3e11dd5eee2a848d54d4846782e9c_original.txt
+ 
+#EXTINF:-1 group-title="Transformers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMpp3lXVDcywmFyszdgaC3DjgMztIFQOGrpQ&usqp=CAU",Transformers 3 (2011)
+https://redirect.cherry1688.com/files/79cdfb1411a8706a86b1048846036550_original.txt
+ 
+#EXTINF:-1 group-title="Transformers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLnkdw4AcjgmeFpauoH3WW4MzibLHaawCJvA&usqp=CAU",Transformers 4 (2014)
+https://redirect.cherry1688.com/files/b4341e3291cb69057593f17228259bd0_original.txt
+ 
+#EXTINF:-1 group-title="Transformers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRaS1WWj-nSblClaHmfxNOeq2M2Q_d

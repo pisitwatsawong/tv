@@ -114,4 +114,5 @@ https://redirect.cherry1688.com/files/79cdfb1411a8706a86b1048846036550_original.
 #EXTINF:-1 group-title="Transformers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLnkdw4AcjgmeFpauoH3WW4MzibLHaawCJvA&usqp=CAU",Transformers 4 (2014)
 https://redirect.cherry1688.com/files/b4341e3291cb69057593f17228259bd0_original.txt
  
-#EXTINF:-1 group-title="Transformers" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRaS1WWj-nSblClaHmfxNOeq2M2Q_d
+#EXTINF:-1 group-title="ภาพยนต์จีน" tvg-logo="https://cdn-img.movieclub.tv/img_movies_vertical/1606992374_1.jpg", นางพญสผมขาว (2020) ซับไทย
+https://cache-movie.all-movie.tv/hls/content/nas06/mvc/M/Asia/The_Wolf_Witch_2020/The_Wolf_Witch_2020_ST.mp4/index.m3u8?st=CN8CDavEOAkJd-Z1jpj5hQ&e=1607140096&u=AllMovie

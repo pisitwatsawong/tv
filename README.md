@@ -1,357 +1,445 @@
 #EXTM3U
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/2tv5_480p.jpg",001-CH5HD
-http://www.sodaza.tk/m3u/live01/c822e1d5f5d5f8ac4f7e74354aae2b8f8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/2nbt_480p.jpg",002-NBT
-http://www.sodaza.tk/m3u/live01/eba879e90e48586dc246a1aa3c6bc98d8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_thaipbs_480p.jpg",003-Thaipbs
-http://www.sodaza.tk/m3u/live01/451d8e7f3abdd37b0bf3bdb0bda9c9568b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/zN5xzUF.png",004-ALTV4
-http://www.sodaza.tk/m3u/live02/0ec89e8755784b1aadeb2515f31fe5578b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/pYy2BJ1.png",005-France24
-http://www.sodaza.tk/m3u/live02/4871dc81352a90e36ac59ff887079f038b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/ypfZQhf.png",006-Arirang
-http://www.sodaza.tk/m3u/live02/cdad3cbcc33b0b5803bac1a83827ee528b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/XoZ0Dd5.png",007-NHK
-http://www.sodaza.tk/m3u/live02/c31cc776d78b3ade62769030714f4da68b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/ws5ebKg.png",008-CAN
-http://www.sodaza.tk/m3u/live02/6d5050f7a97e7e2e881a4e09dfbd60878b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/FwNDDXq.png",009-BBC worldnews
-http://www.sodaza.tk/m3u/live02/50bd30bf901c64ebd7e4112bfc7ed1e88b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/i2N7Je4.png",010-TPTV
-http://www.sodaza.tk/m3u/live02/707591255035861933491b8a565a0f688b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/eGaLuWo.png",011-NBTcentral
-http://www.sodaza.tk/m3u/live02/1c80b9c3de472f0b334084ea477d81738b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvb.jpg",012-TVB
-http://www.sodaza.tk/m3u/live02/f30a4274c1e130c6a21b9560f0f01a5b8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/7pAd9dL.png",013-MVLAO
-http://www.sodaza.tk/m3u/live02/595e0d08f61dbf162af04e3cb40440478b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/bX8wyTP.png",014-MVTV
-http://www.sodaza.tk/m3u/live02/90e5400a7bd7e7369a6cdfb479ef05828b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/kQ1CXCD.png",015-8ch
-http://www.sodaza.tk/m3u/live02/56e2583cddf932046075179e634b6e888b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/tnn2_480p.jpg",016-TNN
-http://www.sodaza.tk/m3u/live01/cccd6667201635a856f19a655f44b38a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/4Xmo3sa.png",017-cablechannel
-http://www.sodaza.tk/m3u/live02/49a81e67626cfdf947783324803d5d478b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_newtv_480p.jpg",018-NEWTV18
-http://www.sodaza.tk/m3u/live01/fb6b1780c738ccea8d6b90c5f8f552738b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/e1kSrlJ.png",019-Looktungnetwork
-http://www.sodaza.tk/m3u/live02/09cb79a80fccd5e72aab55aff4da45b88b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/7TJkJkt.png",020-LooktungTV
-http://www.sodaza.tk/m3u/live02/09a4a3029b4fd2ba16eb971d15f9a61c8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/kZJFKvm.png",021-Bigfm
-http://www.sodaza.tk/m3u/live02/bdf8de60f0c8572f065e1e87af0da0888b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/nation_480p.jpg",022-NationTV
-http://www.sodaza.tk/m3u/live01/c8a02fbd81b9a406b49dc0bcf7cd36cd8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/workpointtv_480p.jpg",023-WorkpointTV
-http://www.sodaza.tk/m3u/live01/5491d58cc45f5467f750f7220add67728b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/true4u_480p.jpg",024-True4u
-http://www.sodaza.tk/m3u/live01/79ecd0e18584349332fa49a66ef755fa8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/gmm25_480p.jpg",025-Gmm25
-http://www.sodaza.tk/m3u/live01/084dbf05e3c1e901287ba5fc844db9898b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",026-Fantv
-http://www.sodaza.tk/m3u/live02/678e975fc3f32d1ba34e47ce2a1624728b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_ch8_480p.jpg",027-CH8
-http://www.sodaza.tk/m3u/live01/9eab4cf3c7480c5f8f38f354453b80ce8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://i.imgur.com/mSoyUN0.png",028-CTB
-http://www.sodaza.tk/m3u/live02/596c3e9a6a01d3d6b40c52ecbe8354c28b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/mono_480p.jpg",029-Mono29
-http://www.sodaza.tk/m3u/live01/ba7aea589e60830beacbf7c26dc6563a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/mcothd_480p.jpg",030-Mcot
-http://www.sodaza.tk/m3u/live01/2618d348790bf803f23562c73f4694af8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_one_480p.jpg",031-Onehd31
-http://www.sodaza.tk/m3u/live01/253f5fc8cc8ae831f85d7ea03535d6068b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvdigital_thairath_480p.jpg",032-Thairath
-http://www.sodaza.tk/m3u/live01/3ebfa8df1f927d5fc3201eb7cd03c18e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/3hd_480p.jpg",033-CH3HD
-http://www.sodaza.tk/m3u/live01/20e74fe5ff9468efec53d2f096341f1c8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/amarintv_480p.jpg",034-AmarinTV
-http://www.sodaza.tk/m3u/live01/d2771b085e616c6a2a81bb88571bd7cf8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/7hd_480p.jpg",035-CH7HD
-http://www.sodaza.tk/m3u/live01/e84d856d18eee9c8bdf6f8785a55527f8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Freetv" tvg-logo="https://www.movieclubhd.tv/src/images/live/pptv_480p.jpg",036-PPTV
-http://www.sodaza.tk/m3u/live01/369f169a0d67a139cae2017ab8bdf6d88b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/natgeo.jpg",037-NatGeo Wild
-http://www.sodaza.tk/m3u/live02/2aff45a11094168bbd4ded4ec3a151d48b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/fbbOeGTPrQc10JNtcq4i2RxNTd1E8LSnTB1VvDTv.png",038-NatGeo HD
-http://www.sodaza.tk/m3u/live02/03cbceb1c7acb88c8ac4cae38cafdcd68b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-bbcearth.jpg",039-BBC Earth
-http://www.sodaza.tk/m3u/live02/3d0b45c7cf745e79ca5adf3a41326b8a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.doofree88.com/storage/live/9yb9Ng4uhP1goO0FVrIO9ETyOAkKrV3lzBcbPy6R.png",040-BBC Life style
-http://www.sodaza.tk/m3u/live02/7b9cbb032627b6cb31096ed2a4a4113c8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-animalplanet.jpg",041-Animal Planet
-http://www.sodaza.tk/m3u/live02/eaafc68d01d9f27d2f485bcf051e1f618b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-history.jpg",042-HISTORY HD 
-http://www.sodaza.tk/m3u/live02/6666c02dbe2d42b2557f3754a5e345158b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-history2.jpg",043-H2 HD
-http://www.sodaza.tk/m3u/live02/958605b933c9a405870a0dcca5b8de1b8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-discovery.jpg",044-Discovery Channel
-http://www.sodaza.tk/m3u/live02/6b07c5dda5ceed5591e69aedd47d84f58b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-discovery-world.jpg",045-Discovery HD World
-http://www.sodaza.tk/m3u/live02/023f99a075c5dec6f476cce1c4625d198b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/truewild.jpg",046-expwild
-http://www.sodaza.tk/m3u/live02/3965803afe92aa656202a05d6b99edbb8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/truelife.jpg",047-explife
-http://www.sodaza.tk/m3u/live02/cbd363dc56975ff4f23a1c73688db7e88b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://www.movieclubhd.tv/src/images/live/truesci.jpg",048-expsci
-http://www.sodaza.tk/m3u/live02/d037dc3664e01b43a905169bb4a6388a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/L7TxjYW.png",049-PSI HD
-http://www.sodaza.tk/m3u/live02/89882b6138657162e33b92f24c92bd918b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/wbtv.jpg",050-WarnerTV HD
-http://www.sodaza.tk/m3u/live02/68d0155693b1ad5bf253177d7042003d8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-axn.jpg",051-AXN HD
-http://www.sodaza.tk/m3u/live02/4fa7f9f19da9670d2d579baa9acdc00a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/foxactionmovie.jpg",052-FoxAction HD
-http://www.sodaza.tk/m3u/live02/b899efb5478942ca17e0155f20a4a5378b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.doofree88.com/storage/live/fox-movies-premium-th.png",053-FoxMovies HD
-http://www.sodaza.tk/m3u/live02/fe94bcf3f4b7c2c205eb0c9b7c799d3c8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-hbo-thai.jpg",054-HBO HD
-http://www.sodaza.tk/m3u/live02/878742cd3fe5848191f98916ab2174a28b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-hbo-hit.jpg",055-HBO Hit
-http://www.sodaza.tk/m3u/live02/2c506d8b4ee417bd14eb2beb65cc71dd8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/fox-family.jpg",056-FoxFamily HD
-http://www.sodaza.tk/m3u/live02/259cba7b29cdd0dceff85a4ef3e70b2e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/foxthai.jpg",057-FoxThai
-http://www.sodaza.tk/m3u/live02/445a64b88479062cc7cc88abbc4079308b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://i.imgur.com/Z3Mx8a6.png",058-series
-http://www.sodaza.tk/m3u/live02/b9010ba5b12f33413c98e60310a8293d8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-asianseries.jpg",059-asian
-http://www.sodaza.tk/m3u/live02/72b927c4a1df788937f06e35debd95718b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/true-filmhd.jpg",060-TrueFilm
-http://www.sodaza.tk/m3u/live02/e12a5af1bc6f83c3f56e23cbdb171ff58b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.doofree88.com/storage/live/0fOZOKWgUnuhwZqZbTD0gX3giN8qXydJoSwA4ml5.png",061-ThaiThai
-http://www.sodaza.tk/m3u/live02/ad16fea33b4566c9d6ec44a60eb271da8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/truethaifilm.jpg",062-thaifilm
-http://www.sodaza.tk/m3u/live02/75a8455f7771f59cef0bbb76d09bbc418b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/tvb.jpg",063-TVB
-http://www.sodaza.tk/m3u/live02/28610933d0a94f72ec68cbd4c844a5f98b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/xzyte.jpg",064-Truexzyte
-http://www.sodaza.tk/m3u/live02/f60bfeff5c8a8e4de0e20ea9040c582e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-afc.jpg",065-asianfood
-http://www.sodaza.tk/m3u/live02/e189b4cf9c1efce92edaefcfcee7dd828b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.movieclubhd.tv/src/images/live/very.jpg",066-very
-http://www.sodaza.tk/m3u/live02/42c01c72e419fb8d7f334c7f56b5fc4e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/sd-fantv.jpg",067-FAN MUSIC
-http://www.sodaza.tk/m3u/live02/4e5e314213d4a1981d5114ba2756a7d28b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.doofree88.com/storage/live/Wvbm898YxA0lFGJH38ncypj3VyRH82Pebf1NRb7b.png",068-TRUE MUSIC
-http://www.sodaza.tk/m3u/live02/87b1c43a5d715f71f24ba079379a97948b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Enteranment" tvg-logo="https://www.doofree88.com/storage/live/EXxpOqC7KM0oidaTRNScl0SH4P1ooINLIU70fmeZ.png",069-SabaideeTV
-http://www.sodaza.tk/m3u/live02/6fd24ed7356cb7befed412a7a2213cdc8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Cratoon" tvg-logo="https://www.movieclubhd.tv/src/images/live/cartoonnetwork.jpg",070-Cartoon Network
-http://www.sodaza.tk/m3u/live02/4ce2a6960a51179a136e972d3f40eec88b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Cratoon" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-disneyxd.jpg",071-Disney XD
-http://www.sodaza.tk/m3u/live02/99cfa350690151a3486b054425fee96c8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Cratoon" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Boomerang.png",072-boomerang
-http://www.sodaza.tk/m3u/live02/424353892581a6ed3f8a287a74b406858b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Cratoon" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/BabyTVHD.png",073-babytv
-http://www.sodaza.tk/m3u/live02/f006330952e8279876598931b312b5618b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Cratoon" tvg-logo="https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",074-sparkplay
-http://www.sodaza.tk/m3u/live02/5d7348c3e1cb1d189951832b65a2924d8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Cratoon" tvg-logo="https://www.doofree88.com/storage/live/JVDtH8vKrYbGxaIVgJqrEZOnGZiob7oKd8Cq93hH.png",075-sparkjump
-http://www.sodaza.tk/m3u/live02/7ee4141787c51bc6ca4875f61d0283b18b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Cratoon" tvg-logo="https://www.doofree88.com/storage/live/WS9zFADjQm64NYjcjJF399JKQuuyEckxe2lHOjH8.png",076-Cartoonclub
-http://www.sodaza.tk/m3u/live02/386e09a1e07cc1afbaf3df738fd684428b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/premierhd1_720.jpg",077-epl1
-http://www.sodaza.tk/m3u/live01/c78f06977ebe034ea93c25d1a7606b148b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/premierhd2_720.jpg",078-epl2
-http://www.sodaza.tk/m3u/live01/e0c57a80a2d4bd79a923d1371d8590e98b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/premierhd3_720.jpg",079-epl3
-http://www.sodaza.tk/m3u/live01/c9023de9205121bd719ead995c1d362b8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/premierhd4_720.jpg",080-epl4
-http://www.sodaza.tk/m3u/live01/fb0133fe7b6f1ce9b2acc77912fbf43a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/premierhd5_720.jpg",081-epl5
-http://www.sodaza.tk/m3u/live01/c9e0b144504c98cecd178f15a979441f8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/NfkuSSz.png",082-truesporthd
-http://www.sodaza.tk/m3u/live01/b9a68c2ff3d03f16ee92d592e639a7ec8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/K7ZR2Tv.png",083-truesporthd2
-http://www.sodaza.tk/m3u/live01/cfcf899b6bb70fa635d5bf58aa8860798b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/nuz4QSl.png",084-truesporthd3
-http://www.sodaza.tk/m3u/live01/a468d6a76a0de48016a5855fb9e7e8888b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/f5FdK5N.png",085-truesport2
-http://www.sodaza.tk/m3u/live01/005d7ad450f1c3faa7d1123f56d64a498b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/11kfFNT.png",086-truesport5
-http://www.sodaza.tk/m3u/live01/024f5e4fd1a75faf6163bf869dc37a248b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/g0F4y4V.png",087-truesport6
-http://www.sodaza.tk/m3u/live01/87be9f88d0828bd6ccf1365dc7d4eed68b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TDzxIsE.png",088-truesport7
-http://www.sodaza.tk/m3u/live01/dadf54d4f2383c2a4f93c6d9202dac078b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-tennis.jpg",089-truetennis
-http://www.sodaza.tk/m3u/live01/d940aace2af71f269e93e19f31b3c11e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-golf.jpg",090-golfchannel
-http://www.sodaza.tk/m3u/live01/251956a0855a27c3cd92d67ac6ab21718b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/hd-nba.jpg",091-truenba
-http://www.sodaza.tk/m3u/live01/f780e73393017e497949f3a573d7fd138b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/1pKXzOFzNjaZkJgEjGLba9k51SnUJbEUf3fvHupQ.png",092-foxsporthd
-http://www.sodaza.tk/m3u/live01/ef9a655af01160c3b43a8422e8a1d95f8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/V8VTTTLHFV18RiKg3TsjJqEVZZcw2MJ6OEhXTVkG.png",093-foxsport2
-http://www.sodaza.tk/m3u/live01/0e007a8ce14ccc01c578bd4c57e975b48b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.doofree88.com/storage/live/hleznW9ESp7nR5hk9S7oDk0xzW8L1GYLCV8IWLKI.png",094-foxsport3
-http://www.sodaza.tk/m3u/live01/58d44c46a4d12c58da1079380940d9388b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/skynethd.jpg",095-skynetsporthd
-http://www.sodaza.tk/m3u/live01/f33d3089eae2dab5d4b65d459a993e7e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/skynet1.jpg",096-skynetsport1
-http://www.sodaza.tk/m3u/live01/02a25157a94e5cea45badbe1abbb8c6a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/skynet2.jpg",097-skynetsport2
-http://www.sodaza.tk/m3u/live01/6644a15a612f5c8a9dc95731636389898b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/skynet3.jpg",098-skynetsport3
-http://www.sodaza.tk/m3u/live01/4ac70e47dfe6bba1fc1d457aaec7d4ec8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/skynet4.jpg",099-skynetsport4
-http://www.sodaza.tk/m3u/live01/5f65c9f435a6c39ba2173739fc3ed53e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/skynet5.jpg",100-skynetsport5
-http://www.sodaza.tk/m3u/live01/cb9030d3c2cfc5304b64f9b5f2c2b6f08b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/skynet6.jpg",101-skynetsport6
-http://www.sodaza.tk/m3u/live01/1a2ccc62faabf7caaaba3271c53b87198b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/PxNN4J9.png",102-bein1
-http://www.sodaza.tk/m3u/live01/034263142480d97cd8bd45270f1e43298b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/jMseUW1.png",103-bein2
-http://www.sodaza.tk/m3u/live01/c67b425b44941ef8e2b0ca152d74dcf48b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/2bQ7BJG.png",104-skysportaction
-http://www.sodaza.tk/m3u/live01/800673bef5dbdb70dfeffec26156889e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/LaCrgqp.png",105-skysportclicket
-http://www.sodaza.tk/m3u/live01/c4fb6893f4ef9afc8f0ba05f8fc410c78b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/LL81HfG.png",106-skysportf1
-http://www.sodaza.tk/m3u/live01/1647970a5c52c7e6b4244b5bf9c62f5c8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/cOOo5cA.png",107-skysportfootball
-http://www.sodaza.tk/m3u/live01/fab9591669af7070bd8a5fedea6bd5a08b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/dGsF1TK.png",108-skysportmainevent
-http://www.sodaza.tk/m3u/live01/511c05e3f5226af6ed3237796c835c268b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/omQ4zcl.png",109-skysportmix
-http://www.sodaza.tk/m3u/live01/f1fc235eefe0d0288a5633056bc315c38b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/f60PYF0.png",110-skysportpremiere
-http://www.sodaza.tk/m3u/live01/a7c405a6066c0d17b54886690798b7258b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/zUepy7u.png",111-btsport1
-http://www.sodaza.tk/m3u/live01/0244f8283322dd6df9d776ea6a5826568b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Bj8pnje.png",112-btsport2
-http://www.sodaza.tk/m3u/live01/3c74e6d6267da1800292fa16466cb1ec8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Svt1tht.png",113-btsport3
-http://www.sodaza.tk/m3u/live01/76ec18fe6026c87c10bed2fafe29d3238b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/9cRvr78.png",114-sporttv1
-http://www.sodaza.tk/m3u/live01/e08b5d72e51e07082673039cd0e5e7268b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/2U3uISL.png",115-sporttv2
-http://www.sodaza.tk/m3u/live01/61f4fa8673cf400235523f6f4450907d8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/ZqUTSNS.png",116-sporttv3
-http://www.sodaza.tk/m3u/live01/c0f9a7e4c40a28395a1efb285c0debdf8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/1XS8Htt.png",117-sporttv4
-http://www.sodaza.tk/m3u/live01/c0a4c2c06a95949e4d87430679b8ab7b8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/20.jpg",118-skysportbundesliga1
-http://www.sodaza.tk/m3u/live01/2670f25061b3c7ebe9e71f068191a0db8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/30.jpg",119-arenasport1serbia
-http://www.sodaza.tk/m3u/live01/bb703c60c85f77bd98724cf96b97f08c8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/31.jpg",120-arenasport2serbia
-http://www.sodaza.tk/m3u/live01/b909c53cbaa77e1ebc308e2b1b9e78918b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/32.jpg",121-arenasport3serbia
-http://www.sodaza.tk/m3u/live01/fd77126bb884edc889948af83ee221b38b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/33.jpg",122-arenasport4serbia
-http://www.sodaza.tk/m3u/live01/a3640941aed077405d771a093381caad8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/34.jpg",123-sportklub1slovenia
-http://www.sodaza.tk/m3u/live01/0e1a5370e44ec0bdb21b270c98a06fe38b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/35.jpg",124-sportklub2slovenia
-http://www.sodaza.tk/m3u/live01/a5edf8c770e098cd7660c3f0942787008b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/36.jpg",125-sportklub3slovenia
-http://www.sodaza.tk/m3u/live01/9e9ba165ef2b816bf1c064c7f0af8d838b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/37.jpg",126-sportklub4slovenia
-http://www.sodaza.tk/m3u/live01/51d19a7c73b91c1a81953c1fd9f35b828b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/59.jpg",127-beinsportlaliga
-http://www.sodaza.tk/m3u/live01/ca686c48bf71f2fb50160485684d72cd8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/15.jpg",128-mutv
-http://www.sodaza.tk/m3u/live01/742222ac09273e809761ea36fdacd6908b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/14.jpg",129-lfctv
-http://www.sodaza.tk/m3u/live01/ebf6b316e9e790a7b5f758dec4e64d478b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/16.jpg",130-chelseatv
-http://www.sodaza.tk/m3u/live01/1114cd1ad252d2c4aca071c862950e258b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/vGGXIdm.png",131-btsportespn
-http://www.sodaza.tk/m3u/live01/0609b8d206c48899b951dc5026e374058b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/44.jpg",132-tv3sport1
-http://www.sodaza.tk/m3u/live01/d435621d6cdfc0c619d4190a5e8fdb5a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/68.jpg",133-tv3max
-http://www.sodaza.tk/m3u/live01/464fa573940df5427a7118e557ec8edf8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/POzBOfh.png",134-sportv
-http://www.sodaza.tk/m3u/live01/999e0ee24b56c73445be37b3594ed04e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/wi3Dmk0.png",135-sportv2
-http://www.sodaza.tk/m3u/live01/f6a49f010ccf49b9497a5ade2f04b4a58b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/56.jpg",136-beinsportsarabia1hd
-http://www.sodaza.tk/m3u/live01/d99b5f93960f8cfdad56ab4bc482a5d18b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/57.jpg",137-beinsportsarabia2hd
-http://www.sodaza.tk/m3u/live01/6abbe1d91088b0e95cb2172487f41b0d8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/58.jpg",138-beinsportsarabia3hd
-http://www.sodaza.tk/m3u/live01/1b7d2ffcff751a3e8b662a606ebdf15f8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/21.jpg",139-sportdigital
-http://www.sodaza.tk/m3u/live01/bdae23511c42cf7f2c549fa39ec588858b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/51.jpg",140-cmorelivehd
-http://www.sodaza.tk/m3u/live01/8e5da82122c160a422e274b86e21221a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/50.jpg",141-cmorefootball
-http://www.sodaza.tk/m3u/live01/d13d8519ecc0bc327738f26ae610995f8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/73.jpg",142-foxsports1usa
-http://www.sodaza.tk/m3u/live01/3937ca55475c77f1a0f8a80002ef4db68b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/72.jpg",143-foxsports2usa
-http://www.sodaza.tk/m3u/live01/7f5396975761255900767e52cd11e5f08b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/24.jpg",144-foxsport1nl
-http://www.sodaza.tk/m3u/live01/a95ae1bcc9d406476e3f51d832affb598b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/25.jpg",145-foxsport2nl
-http://www.sodaza.tk/m3u/live01/dd4f1db98c3fcfd89fadfae2715d41998b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/26.jpg",146-foxsport3nl
-http://www.sodaza.tk/m3u/live01/d1b4d34e97219b6fd381c364687d6fe98b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/27.jpg",147-foxsport4nl
-http://www.sodaza.tk/m3u/live01/63aca915cbc5f8faf712602843a65ed78b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/60.jpg",148-digisport1romania
-http://www.sodaza.tk/m3u/live01/40a001846c69e31876ed0dc5dabcd4f78b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/61.jpg",149-digisport2romania
-http://www.sodaza.tk/m3u/live01/3241bb5a4e8f55f23aeb2711a51ef11f8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/62.jpg",150-digisport3romania
-http://www.sodaza.tk/m3u/live01/477aec06805f2d641a6492408a2644f88b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/63.jpg",151-digisport4romania
-http://www.sodaza.tk/m3u/live01/d66b6728ae94aba20d87fa3721c517658b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/45.jpg",152-canal9denmark
-http://www.sodaza.tk/m3u/live01/7aa79fa85852e0a52874a077087243b88b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/66.jpg",153-6eren
-http://www.sodaza.tk/m3u/live01/5f9660a92ac53b439f7f5d1e37b057bc8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/28.jpg",154-iggosportselect
-http://www.sodaza.tk/m3u/live01/3d6ce240d08708fccd97efa59228aa8f8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/29.jpg",155-ziggosportvoetbal
-http://www.sodaza.tk/m3u/live01/aafaa666300ae8c951b51ba60a709bfb8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/1.jpg",156-espnus
-http://www.sodaza.tk/m3u/live01/4a999c9f70193bd9319b19302a6972648b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/69.jpg",157-espnbrazil
-http://www.sodaza.tk/m3u/live01/b23d996cdef4c6c94d1290033ed013f78b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/23.jpg",158-eirsport1
-http://www.sodaza.tk/m3u/live01/fbf5de546a5500ba5ae17099218e7bcc8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/71.jpg",159-pfc
-http://www.sodaza.tk/m3u/live01/fbd17053389f16220e52e8de3010ca9d8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/38.jpg",160-gol
-http://www.sodaza.tk/m3u/live01/f8b2c3fa381aea44e41d740db78e29e48b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/39.jpg",161-beinsport1fr
-http://www.sodaza.tk/m3u/live01/9164a25b5c7621998a8b9e274f13422a8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/40.jpg",162-beinsport2fr
-http://www.sodaza.tk/m3u/live01/43b4f9ccbbd82abac69a53dc1db96f4e8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/41.jpg",163-beinmax4fr
-http://www.sodaza.tk/m3u/live01/adfcd3651e56af5fa32969bb7a604fff8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/42.jpg",164-beinmax5fr
-http://www.sodaza.tk/m3u/live01/29b8908a753a0649ce36d5a69ce28b078b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/43.jpg",165-beinmax6fr
-http://www.sodaza.tk/m3u/live01/568364feb19d5194bd7f082694c4ecf58b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/new_channel/19.jpg",166-sport1plus
-http://www.sodaza.tk/m3u/live01/986f0ed43e3e51de8a5f787040047abf8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://www.movieclubhd.tv/src/images/live/eurosport.jpg",167-eurosport
-http://www.sodaza.tk/m3u/live01/a85458fe37c26e34d3208d833e98fe6d8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/LggtyMT.png",168-diemasport1
-http://www.sodaza.tk/m3u/live01/5214c70cdc03aea417a7b7e46300bdfd8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/IbUQIzZ.png",169-supersport1al
-http://www.sodaza.tk/m3u/live01/2bc6e8afaa36a2fc7b23f446240d66218b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/P4EDlaf.png",170-supersport2al
-http://www.sodaza.tk/m3u/live01/64842f35dead13c855835eb180d3a0398b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/6Wjtpj0.png",171-premiersports1
-http://www.sodaza.tk/m3u/live01/88400f2beee5ff788f2316dda89f8ee38b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/I4G5gLN.png",172-novasport
-http://www.sodaza.tk/m3u/live01/90eec52e0272ef980f862f35e0d469908b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/c83NnWp.png",173-telekomsport1ro
-http://www.sodaza.tk/m3u/live01/67dc05200f54a41d637d883608a8ee978b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/3hfy3rF.png",174-elevensports1pt
-http://www.sodaza.tk/m3u/live01/06de10658bbff8d3b815dce84eea98f28b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/miSRbvs.png",175-canal11pt
-http://www.sodaza.tk/m3u/live01/9a63a15019f16ce63f97192883dace058b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/Zd1D7gH.png",176-beinsports1tu
-http://www.sodaza.tk/m3u/live01/73e4a304f2f4a62d04957b53db1a409c8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/TQJ40Hn.png",177-beinsports2tu
-http://www.sodaza.tk/m3u/live01/e8fc10f948b76e3ca49885a4154106f78b72cfae8814ced742ef812bb5604b53/playlist.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/aQLr2Q6.png",178-freesportuk
-http://www.sodaza.tk/m3u/live01/293932a1ca563362d7fdb6c6c53281cf8b72cfae8814ced742ef812bb5604b53/playlist.m3u8
+#EXTINF:-1,5 HD
+http://77.83.117.60:8888/02_5HD_720p/chunklist.m3u8
+#EXTINF:-1,NBT HD
+https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+#EXTINF:-1,TPBS HD
+http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1,ALTV4 HD
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1,Cartoon Club
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
+#EXTINF:-1,Boomerang
+https://freelive2.inwstream.com:1936/freelive-edge/boomerang/chunks.m3u8
+#EXTINF:-1,TOONEE
+http://916309128f3e.sn.mynetname.net:1935/aslive/toonee/chunklist.m3u8
+#EXTINF:-1,FWTOON
+https://freelive.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8
+#EXTINF:-1,Thin Tai The Battle
+https://freelive.inwstream.com:1936/freelive-edge/the_battle.stream/playlist.m3u8
+#EXTINF:-1,TPTV
+http://49.231.66.85:1935/live/tptv/playlist.m3u8
+#EXTINF:-1,Saradee 99
+https://freelive2.inwstream.com:1936/freelive-edge/saradee99/chunks.m3u8
+#EXTINF:-1,UNEARTH
+https://alchimie-unearth-2-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Animal Planet
+https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
+#EXTINF:-1,H2
+https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
+#EXTINF:-1,History
+https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1,TNN16
+https://tnnthailand-8zdgwf.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1,National Geographic EN
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,JKN18
+https://freelive.inwstream.com:1936/freelive-edge/newstv/playlist.m3u8
+#EXTINF:-1,National Geographic Wild EN
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1,Voice TV V2H9
+https://edge6a.v2h-cdn.com/v2h/V2H9.stream_360p/chunklist_w1877077711.m3u8
+#EXTINF:-1,TOPNEWS
+https://live.topnews.co.th/hls/topnews.m3u8
+#EXTINF:-1,NATION
+https://freelive.inwstream.com:1936/freelive-edge/nation/playlist.m3u8
+#EXTINF:-1,WORKPOINT
+https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+#EXTINF:-1,TRUE4U
+https://tnnthailand-msqo7x.cdn.byteark.com/live/playlist.m3u8
+#EXTINF:-1,GMM25
+https://freelive.inwstream.com:1936/freelive-edge/gmmchannel/playlist.m3u8
+#EXTINF:-1,Mix Major
+https://edge6a.v2h-cdn.com/appt7/Mix_major.stream_720p/chunklist_w949285084.m3u8
+#EXTINF:-1,CH8
+https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+#EXTINF:-1,M Channel
+http://27.254.142.207:8080/live/web.m3u8
+#EXTINF:-1,MONO29
+https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist_w1988399235.m3u8
+#EXTINF:-1,MCOT HD
+https://freelive.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+#EXTINF:-1,ONE31 HD
+https://freelive.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+#EXTINF:-1,THAIRATH HD
+https://freelive.inwstream.com:1936/freelive-edge/thairahttvhd/playlist.m3u8
+#EXTINF:-1,3 HD
+https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+#EXTINF:-1,AMARINT HD
+https://freelive.inwstream.com:1936/freelive-edge/amarinhd/playlist.m3u8
+#EXTINF:-1,7 HD
+https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+#EXTINF:-1,PPTV HD
+https://freelive.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+#EXTINF:-1,MVTV TVB Thai
+https://edge6a.v2h-cdn.com/appt7/TDramaTV.stream_720p/playlist.m3u8
+#EXTINF:-1,MVTV SERIES
+https://edge6a.v2h-cdn.com/appt3/MV_Series.stream_720p/playlist.m3u8
+#EXTINF:-1,MVTV THAI ESAN TV
+https://edge6a.v2h-cdn.com/appt10/ThaEsan.stream_720p/playlist.m3u8
+#EXTINF:-1,MVTV Laos
+https://edge6a.v2h-cdn.com/appt7/MVLAO.stream_720p/playlist.m3u8
+#EXTINF:-1,MVTV Myanmar
+https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+#EXTINF:-1,True Premier HD 1
+https://sport.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1,True Premier HD 2
+https://sport.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
+#EXTINF:-1,True Premier HD 3
+https://sport.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1,True Premier HD 4
+https://sport.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
+#EXTINF:-1,True Premier HD 5
+https://sport.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+#EXTINF:-1,True Sports HD
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1,True Sports HD2
+https://sport.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
+#EXTINF:-1,True Sports HD3
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,True Sports HD4
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
+#EXTINF:-1,True Sports 2
+https://www.livedoomovie.com/02_sport2_480p/chunklist.m3u8
+#EXTINF:-1,True Sports 5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
+#EXTINF:-1,True Sports 6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
+#EXTINF:-1,True Sports 7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Sports News Aus
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
+#EXTINF:-1,True NBA TV
+https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
+#EXTINF:-1,True Tennis
+https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
+#EXTINF:-1,Tennis Channel
+https://dai.google.com/linear/hls/pa/event/MyB998PcT6-bU3_xHEtkMw/stream/88925de0-9633-4546-b68b-f17d596dc407:BRU/master.m3u8
+#EXTINF:-1,Tennis Channel Int
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1,True Golf Channel
+https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
+#EXTINF:-1,One Golf
+http://162.250.201.58:6211/pk/ONEGOLF/playlist.m3u8
+#EXTINF:-1,World Snooker
+http://916309128f3e.sn.mynetname.net:1935/aslive/supersport3/chunklist_w1094703972.m3u8?fbclid=IwAR2icwCg3du5rhpRt7f0m06S5aKQTaUvAQ1fXxRyjKebLMnYKQ3RDTb_SZA
+#EXTINF:-1,Sky Sport News IT
+https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:-1,BT Sport 1
+http://77.83.117.60:8888/02_BTSPORTHD_1_720p/chunklist.m3u8
+#EXTINF:-1,BT Sport 2
+http://77.83.117.60:8888/02_BTSPORTHD_2_720p/chunklist.m3u8
+#EXTINF:-1,Euro Sport 1
+https://www.livedoomovie.com/02_EUROHD1_720p/chunklist.m3u8
+#EXTINF:-1,Euro Sport 2
+https://www.livedoomovie.com/02_EUROHD2_720p/chunklist.m3u8
+#EXTINF:-1,Espn 2
+http://stream2.grandma.fit/espn2.m3u8?SBN
+#EXTINF:-1,beIN Sports EXTRA
+https://siloh.pluto.tv/lilo/production/bein/master.m3u8
+#EXTINF:-1,beIN Sports ESP
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master.m3u8
+#EXTINF:-1,beIN Sports 1
+http://31.220.41.88:8081/live/bein1.stream/chunks.m3u8?SBN
+#EXTINF:-1,beIN Sports 2
+http://31.220.41.88:8081/live/bein2.stream/chunks.m3u8?SBN
+#EXTINF:-1,beIN Sports 3
+http://31.220.41.88:8081/live/bein3.stream/chunks.m3u8?SBN
+#EXTINF:-1,beIN Sports 4
+http://31.220.41.88:8081/live/bein4.stream/chunks.m3u8?SBN
+#EXTINF:-1,beIN Sports 5
+http://31.220.41.88:8081/live/bein5.stream/chunks.m3u8?SBN
+#EXTINF:-1,beIN Sports 6
+http://31.220.41.88:8081/live/bein6.stream/chunks.m3u8?SBN
+#EXTINF:-1,beIN Sports 7
+http://31.220.41.88:8081/live/bein7.stream/chunks.m3u8?SBN
+#EXTINF:-1,beIN Sports 8
+http://31.220.41.88:8081/live/bein8.stream/chunks.m3u8?SBN
+#EXTINF:-1,beIN Sports 9
+http://31.220.41.88:8081/live/bein9.stream/chunks.m3u8?SBN
+#EXTINF:-1,Astro Arena
+http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
+#EXTINF:-1,Astro Supersport 1
+http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
+#EXTINF:-1,Astro Supersport 2
+http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
+#EXTINF:-1,Astro Supersport 3
+http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
+#EXTINF:-1,Astro Supersport 4
+http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
+#EXTINF:-1,Arena Sport 1
+http://93.157.62.180:80/ArenaSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Arena Sport 2
+http://93.157.62.180:80/ArenaSport2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Arena Sport 3
+http://93.157.62.180:80/ArenaSport3/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Arena Sport 4
+http://93.157.62.180:80/ArenaSport4/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Sport TV1
+https://www.livedoomovie.com/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV2
+https://www.livedoomovie.com/02_SPORTTV_2_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV3
+https://www.livedoomovie.com/02_SPORTTV_3_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV4
+https://www.livedoomovie.com/02_SPORTTV_4_720p/chunklist.m3u8
+#EXTINF:-1,Sport TV5
+https://www.livedoomovie.com/02_SPORTTV_5_720p/chunklist.m3u8
+#EXTINF:-1,Skynet Sports 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/skynetsports1/chunklist.m3u8?fbclid=IwAR2CNYAkljbQ0gxjqNvAK3zcZcTPvihAxwTVm5bwdEP0xcAp_xT0qSIXphY
+#EXTINF:-1,Skynet Sports 3
+http://916309128f3e.sn.mynetname.net:1935/aslive/astrosupersport4/chunklist.m3u8?fbclid=IwAR1NE3TKFzVQdyLcbyMIlBrOH1HZ7sL-icNl_yYWwq6AIVIFc2YMiotMY2o
+#EXTINF:-1,Barza TV 
+http://91.126.138.141:1935/live/barza/chunklist_w1270912450.m3u8?SBN
+#EXTINF:-1,Realmadrid TV
+http://91.126.39.101:1935/live/realmadridnntv/chunklist_w2140406843.m3u8
+#EXTINF:-1,MUTV
+http://77.83.117.60:8888/02_MUTV_720p/chunklist.m3u8
+#EXTINF:-1,LFCTV
+http://77.83.117.60:8888/02_lfctv_720p/chunklist.m3u8
+#EXTINF:-1,All Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:-1,MMA TV
+https://alchimie-mmatv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,TSportsHD
+http://103.81.104.118/hls/t-sports.m3u8
+#EXTINF:-1,PTV Sports
+http://103.81.104.118/hls/stream11.m3u8
+#EXTINF:-1,Sony Six
+http://103.81.104.118/hls/stream10.m3u8
+#EXTINF:-1,Sony TEN1
+http://103.81.104.118/hls/stream40.m3u8
+#EXTINF:-1,Sony TEN2
+http://103.81.104.118/hls/stream39.m3u8
+#EXTINF:-1,true X-ZYTE
+http://tv1.chang55.com:7799/live/C15x1/chunklist_w284187195.m3u8
+#EXTINF:-1,Fox
+https://cdn1.mobiletv.bg/T13/fox/fox_794613_850k.m3u8
+#EXTINF:-1,Fox Crime
+https://cdn1.mobiletv.bg/T10/fox_crime/fox_crime_794613_850k.m3u8
+#EXTINF:-1,Fox Thai
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
+#EXTINF:-1,Fox Movies
+https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1,Fox Action Movies
+http://185.180.221.194:8278/streams/d/Foxactionhd/playlist.m3u8
+#EXTINF:-1,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8
+#EXTINF:-1,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1,HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
+#EXTINF:-1,HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1,Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+#EXTINF:-1,CINEMAX
+https://liveorigin01.hbogoasia.com:8443/origin/live/MAX/index.m3u8
+#EXTINF:-1,Warner TV
+https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
+#EXTINF:-1,Paramount Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/PARAMOUNT-HD-720p/playlist.m3u8
+#EXTINF:-1,AXN
+https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
+#EXTINF:-1,Thrill
+http://210.210.155.35/qwr9ew/s/s34/index.m3u8
+#EXTINF:-1,NEW K-MOVIES
+https://newidco-newmovies-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Channel8Thailand
+https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist_w141858847.m3u8
+#EXTINF:-1,CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1,Cable 1
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel/chunklist_w1127755900.m3u8
+#EXTINF:-1,Cable 2
+http://916309128f3e.sn.mynetname.net:1935/aslive/asichannel2/chunklist_w303936619.m3u8
+#EXTINF:-1,Cable 3
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries1/chunklist_w1936282519.m3u8
+#EXTINF:-1,Cable 4
+http://916309128f3e.sn.mynetname.net:1935/aslive/asiseries2/chunklist_w1310036100.m3u8
+#EXTINF:-1,&FlixHD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1,&PriveHD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1,&Pictures
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
+#EXTINF:-1,24 Hour Free Movies
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
+#EXTINF:-1,IFC Films
+https://amc-ifc-films-picks-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1,CCM
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+#EXTINF:-1,ONE
+http://50.7.161.82:8278/streams/d/SetOne/playlist.m3u8
+#EXTINF:-1,MBC1
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1,MBC2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1,MBC3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1,MBC4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1,MBC5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1,MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1,MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1,MBC+ Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1,MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1,MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1,MBC Masr
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1,MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1,Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+#EXTINF:-1,ANIPLUS
+https://mediasv.online/tvchannel_x2/aniplus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6NDA6MDQgQU0maGFzaF92YWx1ZT1LeU4wNUVmSkhSM0EwWXEwVFluSnFBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzE3Njc2&fbclid=IwAR2NqWK4df95ZvqH3CTQCLrg6Zrvo1tB0pfdvJMc2ISynfCfUAH3RQYS9Zo
+#EXTINF:-1,Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1,Nickelodeon
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1,Nick
+https://siloh.pluto.tv/lilo/production/Nick/01/master.m3u8
+#EXTINF:-1,Nick Jr
+https://siloh.pluto.tv/lilo/production/Nick/04/master.m3u8
+#EXTINF:-1,Discovery Asia
+http://77.83.117.60:8888/02_DiscoveryHDWorld/chunklist.m3u8
+#EXTINF:-1,Nat Geo People EN
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+#EXTINF:-1,Nat Geographic Abu
+https://admdn2ta.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist.m3u8
+#EXTINF:-1,Nat Geo Wild TH
+https://mediasv.online/live7f/hd-natgeowild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6Mjk6MTYgQU0maGFzaF92YWx1ZT1CVXZMeERtcXI5MTIyV0kyS2pIVEpRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzQ4OTc1&fbclid=IwAR3450SVxnX8ytluaJbn9gZO_U0pC7rr3-YVVlHjpAU5wqEMV1OFWLqRHPw
+#EXTINF:-1,History HD
+http://77.83.117.60:8888/02_HISTORYHD_720p/chunklist.m3u8
+#EXTINF:-1,BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1,Love Nature
+https://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1,CGTN Documentary
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1,RT Documentary
+http://rt-doc.secure.footprint.net/1101_2500Kb.m3u8
+#EXTINF:-1,Russia Today Documentary
+https://rt-doc.secure.footprint.net/1101.m3u8
+#EXTINF:-1,TLC THAI
+https://mediasv.online/tvchannel_x1/hd-tlc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC84LzIwMjEgMjo0Mzo0MyBBTSZoYXNoX3ZhbHVlPUYwamxacENmSUc4dzRnUmZmc2tMaVE9PSZ2YWxpZG1pbnV0ZXM9ODY0MDAmc3RybV9sZW49MTkmaWQ9Y2hfMTI4Mjk%3D&fbclid=IwAR3ugDuL1ouo7qJ2aU_d2j3drkly3gyK68AeTNB_64tBIAeTDIaoJ5xT_cM
+#EXTINF:-1,TLC
+https://bozztv.com/teleyupp/teleup-tlc/playlist.m3u8
+#EXTINF:-1,travelxp EN
+https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,travelxp AU
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Hunt Channel
+https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
+#EXTINF:-1,Pursuit Up
+https://pursuitup.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Outdoor Channel
+https://outdoorchannel-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,Way Point
+https://waypointtv-samsung.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,The Design Network
+https://thedesignnetwork-tdn-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,This Old House
+https://thisoldhouse-2.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,Tiny House Nation
+https://aenetworks-tinyhousenation-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,tvN
+http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+#EXTINF:-1,tvN
+https://mediasv.online/tvchannel_x2/hd-tvn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6Mzc6MTggQU0maGFzaF92YWx1ZT1LM1F4bUR0dHF3VmhrKzZyeXVvOHV3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzU3NDYx&fbclid=IwAR2hASnjYe5Ul4_fl3wqtH2-CCfZ-kwKqmI30e8bTC3tHchCtLL35yQgxZU
+#EXTINF:-1,BLUEANT ENTERTAINMENT
+https://mediasv.online/tvchannel_x2/blueant/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNy8yMDIxIDI6MjU6NDEgQU0maGFzaF92YWx1ZT1qYkpNODRUS25CZXhKZ293TnM1UkVBPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTIwJmlkPWNoXzk3NTY0&fbclid=IwAR1YmuTQXGgkCc4aqTyjj8zmt2JhKDYPlqbJqV3oY3HJh0jpPQ6o-JcLgcw
+#EXTINF:-1,MTV Live
+http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+#EXTINF:-1,Stingray Djazz
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+#EXTINF:-1,The Country Network
+https://d39uqn16w2n0w1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/TCN-RAD/playlist.m3u8
+#EXTINF:-1,CMC
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-1,CMC USA
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/.m3u8
+#EXTINF:-1,KPOPTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w987955597.m3u8
+#EXTINF:-1,New K-ID
+https://b9860b21629b415987978bdbbfbc3095.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_NewKID/playlist.m3u8_NewKID/playlist.m3u8
+#EXTINF:-1,Arirang Korea
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch/master.m3u8
+#EXTINF:-1,Fashion TV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+#EXTINF:-1,World Fashion
+https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+#EXTINF:-1,Jasmin TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,CNN
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+#EXTINF:-1,abc NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1,FOX NEWS
+https://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
+#EXTINF:-1,NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1,CBS NEWS
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,Sky NEWS
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
+#EXTINF:-1,Al Jazeera
+https://live-hls-web-aje.getaj.net:443/AJE/01.m3u8
+#EXTINF:-1,DW NEWS
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1,France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1,Bloomberg
+https://localnow.bmd.bloomberg.com/hls/manifests/bmd_us_tickerless/master.m3u8
+#EXTINF:-1,CCTV1 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1,CCTV2 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1,CCTV3 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225634/index.m3u8
+#EXTINF:-1,CCTV4 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1,CCTV5 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
+#EXTINF:-1,CCTV5+ FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1,CCTV6 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225632/index.m3u8
+#EXTINF:-1,CCTV7 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1,CCTV8 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225631/index.m3u8
+#EXTINF:-1,CCTV9 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1,CCTV10 FHD
+http://39.135.138.58:18890/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1,CCTV11 FHD
+http://39.135.138.58:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1,CCTV12 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1,CCTV13 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1,CCTV14 FHD
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1,CCTV15 FHD
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1,CCTV17 FHD
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
